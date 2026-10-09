@@ -1,0 +1,7 @@
+"manifest.description" = "This plugin allows the user to remove completely matched and saved albums from the album pane."
+"manifest.long_description" = "This plugin allows the user to remove completely matched and saved albums from the album pane. It provides an action under the \"Plugin Tools\" section of Picard's manu menu.\n\nThe plugin is based on the Picard v2 \"Remove Perfect Albums\" plugin by ichneumon and hrglgrmpf, and has been converted for use with Picard v3 by Bob Swift."
+"manifest.name" = "Remove Matched Albums"
+
+"ui.action.remove_albums.title" = "Remove matched albums"
+"ui.dialog.no_albums.text" = "There were no completely matched and saved albums found for removal."
+"ui.dialog.no_albums.title" = "No Albums"

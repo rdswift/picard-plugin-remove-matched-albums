@@ -1,0 +1,7 @@
+"manifest.description" = "Ce plugin permet à l'utilisateur de supprimer du volet des albums les albums dont la correspondance est parfaite et qui ont été enregistrés."
+"manifest.long_description" = "Ce plugin permet à l'utilisateur de supprimer du volet « Albums » les albums dont la correspondance est parfaite et qui ont été enregistrés. Il propose une action dans la section « Outils du plugin » du menu principal de Picard.\n\nCe plugin s'inspire du plugin « Remove Perfect Albums » pour Picard v2, créé par ichneumon et hrglgrmpf, et a été adapté pour Picard v3 par Bob Swift."
+"manifest.name" = "Supprimer les albums correspondants"
+
+"ui.action.remove_albums.title" = "Supprimer les albums correspondants"
+"ui.dialog.no_albums.text" = "Aucun album correspondant parfaitement et enregistré n'a été trouvé pour être supprimé."
+"ui.dialog.no_albums.title" = "Aucun album"
